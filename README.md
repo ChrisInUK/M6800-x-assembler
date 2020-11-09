@@ -1,5 +1,5 @@
 # M6800-x-assembler
-Modified MASM freeware corss-compiler for Motorola 6800
+Modified MASM freeware cross-compiler for Motorola 6800
 
 Extract from masm/src/README :-
 
